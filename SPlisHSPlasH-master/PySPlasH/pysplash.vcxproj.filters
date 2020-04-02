@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\AnimationFieldModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\BoundaryModelModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\ParameterObjectModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\UtilitiesModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\SPHKernelsModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\EmitterModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\FluidModelModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\NonPressureForceBaseModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\SimulationModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\StaticRigidBodyModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\TimeModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\TriangleMeshModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\DFSPHModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\DragModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\ElasticityModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\IISPHModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\PBFModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\PCISPHModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\PFModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\SurfaceTensionModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\ViscosityModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\VorticityModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\WCSPHModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\GUIModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\ExtrasModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\PySPlasH\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{722D04A6-F3F5-3E43-A64B-FD3A8B23A2C9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

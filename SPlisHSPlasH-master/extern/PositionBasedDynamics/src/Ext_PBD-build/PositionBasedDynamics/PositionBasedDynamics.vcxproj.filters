@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\MathFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\PositionBasedDynamics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\PositionBasedElasticRods.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\PositionBasedFluids.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\PositionBasedRigidBodyDynamics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\SPHKernels.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\TimeIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Common\Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\DirectPositionBasedSolverForStiffRodsInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\MathFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\PositionBasedDynamics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\PositionBasedElasticRods.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\PositionBasedFluids.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\PositionBasedRigidBodyDynamics.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\PositionBasedGenericConstraints.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\SPHKernels.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\TimeIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\PositionBasedDynamics\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{29CE6065-CC11-3727-A447-48264C9C5E7B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C5CDA735-412B-3259-BF07-ECF564CED04E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

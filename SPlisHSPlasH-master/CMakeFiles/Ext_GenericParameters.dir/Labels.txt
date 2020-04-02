@@ -1,0 +1,13 @@
+# Target labels
+ Ext_GenericParameters
+# Source files and their labels
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/Ext_GenericParameters
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/96d3bb827ff08d71b1c06946fd27c747/Ext_GenericParameters.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/48ccbb2b3bf28ff07e6b4f170dd52c99/Ext_GenericParameters-complete.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/c33e792bf913bf40e78dc5a8000d6f32/Ext_GenericParameters-install.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/c33e792bf913bf40e78dc5a8000d6f32/Ext_GenericParameters-mkdir.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/c33e792bf913bf40e78dc5a8000d6f32/Ext_GenericParameters-download.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/c33e792bf913bf40e78dc5a8000d6f32/Ext_GenericParameters-update.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/c33e792bf913bf40e78dc5a8000d6f32/Ext_GenericParameters-patch.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/c33e792bf913bf40e78dc5a8000d6f32/Ext_GenericParameters-configure.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/c33e792bf913bf40e78dc5a8000d6f32/Ext_GenericParameters-build.rule

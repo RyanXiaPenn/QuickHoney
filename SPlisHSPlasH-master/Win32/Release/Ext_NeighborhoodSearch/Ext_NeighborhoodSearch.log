@@ -1,0 +1,30 @@
+﻿  Creating directories for 'Ext_NeighborhoodSearch'
+  Building Custom Rule C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeLists.txt
+  Performing download step (git clone) for 'Ext_NeighborhoodSearch'
+  -- Avoiding repeated git clone, stamp file is up to date: 'C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/CompactNSearch/src/Ext_NeighborhoodSearch-stamp/Ext_NeighborhoodSearch-gitclone-lastrun.txt'
+  Performing update step for 'Ext_NeighborhoodSearch'
+  No patch step for 'Ext_NeighborhoodSearch'
+  Performing configure step for 'Ext_NeighborhoodSearch'
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/CompactNSearch/src/Ext_NeighborhoodSearch-build
+  Performing build step for 'Ext_NeighborhoodSearch'
+  用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+    CompactNSearch.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\CompactNSearch\src\Ext_NeighborhoodSearch-build\Release\CompactNSearch.lib
+    Demo.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\CompactNSearch\src\Ext_NeighborhoodSearch-build\demo\Release\Demo.exe
+  Performing install step for 'Ext_NeighborhoodSearch'
+  用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+    CompactNSearch.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\CompactNSearch\src\Ext_NeighborhoodSearch-build\Release\CompactNSearch.lib
+    Demo.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\CompactNSearch\src\Ext_NeighborhoodSearch-build\demo\Release\Demo.exe
+    -- Install configuration: "Release"
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/NeighborhoodSearch/include/CompactNSearch
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/NeighborhoodSearch/include/Config.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/NeighborhoodSearch/include/CompactNSearch.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/NeighborhoodSearch/include/PointSet.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/NeighborhoodSearch/include/DataStructures.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/NeighborhoodSearch/lib/CompactNSearch.lib
+  Completed 'Ext_NeighborhoodSearch'

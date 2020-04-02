@@ -1,0 +1,26 @@
+﻿  Creating directories for 'Ext_GenericParameters'
+  Building Custom Rule C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeLists.txt
+  Performing download step (git clone) for 'Ext_GenericParameters'
+  -- Avoiding repeated git clone, stamp file is up to date: 'C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/GenericParameters/src/Ext_GenericParameters-stamp/Ext_GenericParameters-gitclone-lastrun.txt'
+  Performing update step for 'Ext_GenericParameters'
+  No patch step for 'Ext_GenericParameters'
+  Performing configure step for 'Ext_GenericParameters'
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/GenericParameters/src/Ext_GenericParameters-build
+  Performing build step for 'Ext_GenericParameters'
+  用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  Performing install step for 'Ext_GenericParameters'
+  用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+    -- Install configuration: "Release"
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/GenericParameters/include
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/GenericParameters/include/EnumParameter.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/GenericParameters/include/NumericParameter.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/GenericParameters/include/Parameter.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/GenericParameters/include/ParameterObject.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/GenericParameters/include/VectorParameter.h
+  Completed 'Ext_GenericParameters'

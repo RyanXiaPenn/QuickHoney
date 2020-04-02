@@ -1,0 +1,48 @@
+﻿  Building Custom Rule C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/freeglut/src/CMakeLists.txt
+  fg_callbacks.c
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\freeglut\src\fg_callbacks.c(268): warning C4018: “<”: 有符号/无符号不匹配
+  fg_cursor.c
+  fg_display.c
+  fg_ext.c
+  fg_font.c
+  fg_font_data.c
+  fg_gamemode.c
+  fg_geometry.c
+  fg_gl2.c
+  fg_init.c
+  fg_input_devices.c
+  fg_joystick.c
+  fg_main.c
+  fg_menu.c
+  fg_misc.c
+  fg_overlay.c
+  fg_spaceball.c
+  fg_state.c
+  fg_stroke_mono_roman.c
+  fg_stroke_roman.c
+  正在生成代码...
+  正在编译...
+  fg_structure.c
+  fg_teapot.c
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\freeglut\src\fg_teapot.c : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  fg_videoresize.c
+  fg_window.c
+  fg_cursor_mswin.c
+  fg_display_mswin.c
+  fg_ext_mswin.c
+  fg_gamemode_mswin.c
+  fg_init_mswin.c
+  fg_input_devices_mswin.c
+  fg_joystick_mswin.c
+  fg_main_mswin.c
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\freeglut\src\mswin\fg_main_mswin.c(480): warning C4293: “<<”: Shift 计数为负或过大，其行为未定义
+  fg_menu_mswin.c
+  fg_spaceball_mswin.c
+  fg_state_mswin.c
+  fg_structure_mswin.c
+  fg_window_mswin.c
+  fgSetupPixelFormat(): there is still some work to do here!
+  xparsegeometry_repl.c
+  正在生成代码...
+    正在创建库 C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/lib/Release/freeglut.lib 和对象 C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/lib/Release/freeglut.exp
+  freeglut.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\bin\freeglut.dll

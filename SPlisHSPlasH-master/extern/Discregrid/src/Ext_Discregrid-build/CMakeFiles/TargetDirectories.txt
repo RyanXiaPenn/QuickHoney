@@ -1,0 +1,5 @@
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/Discregrid/src/Ext_Discregrid-build/CMakeFiles/INSTALL.dir
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/Discregrid/src/Ext_Discregrid-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/Discregrid/src/Ext_Discregrid-build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/Discregrid/src/Ext_Discregrid-build/discregrid/CMakeFiles/Discregrid.dir
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/Discregrid/src/Ext_Discregrid-build/discregrid/CMakeFiles/INSTALL.dir

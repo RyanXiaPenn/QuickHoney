@@ -1,0 +1,13 @@
+# Target labels
+ Ext_PBD
+# Source files and their labels
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/Ext_PBD
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/96d3bb827ff08d71b1c06946fd27c747/Ext_PBD.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/48ccbb2b3bf28ff07e6b4f170dd52c99/Ext_PBD-complete.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/e5f9da38247477ad75f32a32ceb6da4c/Ext_PBD-install.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/e5f9da38247477ad75f32a32ceb6da4c/Ext_PBD-mkdir.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/e5f9da38247477ad75f32a32ceb6da4c/Ext_PBD-download.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/e5f9da38247477ad75f32a32ceb6da4c/Ext_PBD-update.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/e5f9da38247477ad75f32a32ceb6da4c/Ext_PBD-patch.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/e5f9da38247477ad75f32a32ceb6da4c/Ext_PBD-configure.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/e5f9da38247477ad75f32a32ceb6da4c/Ext_PBD-build.rule

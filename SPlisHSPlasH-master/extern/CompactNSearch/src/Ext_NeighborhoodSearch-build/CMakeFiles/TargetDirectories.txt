@@ -1,0 +1,6 @@
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/CompactNSearch/src/Ext_NeighborhoodSearch-build/CMakeFiles/CompactNSearch.dir
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/CompactNSearch/src/Ext_NeighborhoodSearch-build/CMakeFiles/INSTALL.dir
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/CompactNSearch/src/Ext_NeighborhoodSearch-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/CompactNSearch/src/Ext_NeighborhoodSearch-build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/CompactNSearch/src/Ext_NeighborhoodSearch-build/demo/CMakeFiles/Demo.dir
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/CompactNSearch/src/Ext_NeighborhoodSearch-build/demo/CMakeFiles/INSTALL.dir

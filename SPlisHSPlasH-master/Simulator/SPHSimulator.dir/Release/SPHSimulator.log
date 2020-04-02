@@ -1,0 +1,11 @@
+﻿  Building Custom Rule C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Simulator/CMakeLists.txt
+  main.cpp
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(51): warning C4244: “=”: 从“double”转换到“Real”，可能丢失数据
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(72): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(73): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(100): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(101): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(102): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(192): warning C4244: “=”: 从“double”转换到“Real”，可能丢失数据
+    正在创建库 C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Simulator/Release/SPHSimulator.lib 和对象 C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Simulator/Release/SPHSimulator.exp
+  SPHSimulator.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\bin\SPHSimulator.exe

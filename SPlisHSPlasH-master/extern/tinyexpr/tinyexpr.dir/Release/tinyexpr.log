@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/tinyexpr/CMakeLists.txt
+  tinyexpr.c
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\tinyexpr\tinyexpr.c(460): warning C4090: “初始化”: 不同的“const”限定符
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\tinyexpr\tinyexpr.c(477): warning C4090: “初始化”: 不同的“const”限定符
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\tinyexpr\tinyexpr.c(492): warning C4090: “初始化”: 不同的“const”限定符
+  tinyexpr.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\lib\Release\tinyexpr.lib

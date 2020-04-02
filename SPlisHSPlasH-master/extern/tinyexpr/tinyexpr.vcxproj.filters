@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\tinyexpr\tinyexpr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\tinyexpr\tinyexpr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\tinyexpr\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E2156395-4FD6-3E05-88FC-6CF33DF4A9B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{722D04A6-F3F5-3E43-A64B-FD3A8B23A2C9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

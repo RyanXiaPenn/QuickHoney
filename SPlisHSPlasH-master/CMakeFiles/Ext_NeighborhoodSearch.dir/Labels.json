@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/Ext_NeighborhoodSearch"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/96d3bb827ff08d71b1c06946fd27c747/Ext_NeighborhoodSearch.rule"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/48ccbb2b3bf28ff07e6b4f170dd52c99/Ext_NeighborhoodSearch-complete.rule"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/727699b5f93c544d5b08bf6e901becfa/Ext_NeighborhoodSearch-install.rule"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/727699b5f93c544d5b08bf6e901becfa/Ext_NeighborhoodSearch-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/727699b5f93c544d5b08bf6e901becfa/Ext_NeighborhoodSearch-download.rule"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/727699b5f93c544d5b08bf6e901becfa/Ext_NeighborhoodSearch-update.rule"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/727699b5f93c544d5b08bf6e901becfa/Ext_NeighborhoodSearch-patch.rule"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/727699b5f93c544d5b08bf6e901becfa/Ext_NeighborhoodSearch-configure.rule"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/727699b5f93c544d5b08bf6e901becfa/Ext_NeighborhoodSearch-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Ext_NeighborhoodSearch"
+		],
+		"name" : "Ext_NeighborhoodSearch"
+	}
+}

@@ -1,0 +1,5 @@
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/install/GenericParameters/include/EnumParameter.h
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/install/GenericParameters/include/NumericParameter.h
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/install/GenericParameters/include/Parameter.h
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/install/GenericParameters/include/ParameterObject.h
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/install/GenericParameters/include/VectorParameter.h

@@ -1,0 +1,104 @@
+﻿  Creating directories for 'Ext_PBD'
+  Building Custom Rule C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeLists.txt
+  Performing download step (git clone) for 'Ext_PBD'
+  -- Avoiding repeated git clone, stamp file is up to date: 'C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/PositionBasedDynamics/src/Ext_PBD-stamp/Ext_PBD-gitclone-lastrun.txt'
+  Performing update step for 'Ext_PBD'
+  No patch step for 'Ext_PBD'
+  Performing configure step for 'Ext_PBD'
+  -- Found OpenMP_C: -openmp  
+  -- Found OpenMP_CXX: -openmp  
+  -- Found OpenMP: TRUE   
+  -- Using C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/include
+  -- Using C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/GenericParameters/include
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/PositionBasedDynamics/src/Ext_PBD-build
+  Performing build step for 'Ext_PBD'
+  用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+    PositionBasedDynamics.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\lib\Release\PositionBasedDynamics.lib
+    Simulation.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\lib\Release\Simulation.lib
+    Utils.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\lib\Release\Utils.lib
+  Performing install step for 'Ext_PBD'
+  用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+    PositionBasedDynamics.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\lib\Release\PositionBasedDynamics.lib
+    Simulation.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\lib\Release\Simulation.lib
+    Utils.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\lib\Release\Utils.lib
+    -- Install configuration: "Release"
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Common
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Common/Common.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/data
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/data/models
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/data/scenes
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/data/sdf
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/data/shaders
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/data/shaders/fs_flat.glsl
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/data/shaders/fs_flatTex.glsl
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/data/shaders/fs_smooth.glsl
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/data/shaders/fs_smoothTex.glsl
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/data/shaders/gs_flat.glsl
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/data/shaders/gs_flatTex.glsl
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/data/shaders/vs_flat.glsl
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/data/shaders/vs_flatTex.glsl
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/data/shaders/vs_smooth.glsl
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/data/shaders/vs_smoothTex.glsl
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Visualization
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Visualization/MiniGL.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Visualization/Selection.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Visualization/Shader.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Visualization/Visualization.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/lib/PositionBasedDynamics.lib
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/PositionBasedDynamics/.
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/PositionBasedDynamics/./DirectPositionBasedSolverForStiffRodsInterface.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/PositionBasedDynamics/./MathFunctions.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/PositionBasedDynamics/./PositionBasedDynamics.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/PositionBasedDynamics/./PositionBasedElasticRods.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/PositionBasedDynamics/./PositionBasedFluids.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/PositionBasedDynamics/./PositionBasedGenericConstraints.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/PositionBasedDynamics/./PositionBasedRigidBodyDynamics.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/PositionBasedDynamics/./SPHKernels.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/PositionBasedDynamics/./TimeIntegration.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/lib/Simulation.lib
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/.
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./AABB.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./BoundingSphere.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./BoundingSphereHierarchy.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./CollisionDetection.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./Constraints.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./CubicSDFCollisionDetection.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./DistanceFieldCollisionDetection.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./IDFactory.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./kdTree.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./kdTree.inl
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./LineModel.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./NeighborhoodSearchSpatialHashing.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./ParticleData.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./RigidBody.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./RigidBodyGeometry.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./Simulation.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./SimulationModel.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./TetModel.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./TimeManager.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./TimeStep.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./TimeStepController.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Simulation/./TriangleModel.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/lib/Utils.lib
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Utils/.
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Utils/./FileSystem.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Utils/./Hashmap.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Utils/./IndexedFaceMesh.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Utils/./IndexedTetMesh.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Utils/./Logger.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Utils/./ObjectArray.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Utils/./OBJLoader.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Utils/./SceneLoader.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Utils/./StringTools.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Utils/./SystemInfo.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Utils/./TetGenLoader.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Utils/./Timing.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Utils/./Version.h
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/PositionBasedDynamics/include/Utils/./VolumeIntegration.h
+  Completed 'Ext_PBD'

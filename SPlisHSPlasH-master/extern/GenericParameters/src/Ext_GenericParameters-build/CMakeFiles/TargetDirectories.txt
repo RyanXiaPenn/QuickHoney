@@ -1,0 +1,4 @@
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/GenericParameters/src/Ext_GenericParameters-build/CMakeFiles/INSTALL.dir
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/GenericParameters/src/Ext_GenericParameters-build/CMakeFiles/ALL_BUILD.dir
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/GenericParameters/src/Ext_GenericParameters-build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/GenericParameters/src/Ext_GenericParameters-build/GenericParameters/CMakeFiles/INSTALL.dir

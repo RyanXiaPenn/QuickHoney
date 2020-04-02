@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\Discregrid\src\Ext_Discregrid-build\CMakeFiles\083c33551a1dd00d4613b1c07c414664\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2414477E-67E1-30E3-A8BA-35CAF8560363}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

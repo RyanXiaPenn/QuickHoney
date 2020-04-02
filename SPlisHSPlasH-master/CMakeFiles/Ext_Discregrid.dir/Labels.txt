@@ -1,0 +1,13 @@
+# Target labels
+ Ext_Discregrid
+# Source files and their labels
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/Ext_Discregrid
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/96d3bb827ff08d71b1c06946fd27c747/Ext_Discregrid.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/48ccbb2b3bf28ff07e6b4f170dd52c99/Ext_Discregrid-complete.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/5252214caa59bc99a4de40ead9d6f530/Ext_Discregrid-install.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/5252214caa59bc99a4de40ead9d6f530/Ext_Discregrid-mkdir.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/5252214caa59bc99a4de40ead9d6f530/Ext_Discregrid-download.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/5252214caa59bc99a4de40ead9d6f530/Ext_Discregrid-update.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/5252214caa59bc99a4de40ead9d6f530/Ext_Discregrid-patch.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/5252214caa59bc99a4de40ead9d6f530/Ext_Discregrid-configure.rule
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/5252214caa59bc99a4de40ead9d6f530/Ext_Discregrid-build.rule

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\IndexedFaceMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\IndexedTetMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\SceneLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\TetGenLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\VolumeIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\FileSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\Hashmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\IndexedFaceMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\IndexedTetMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\Logger.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\OBJLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\SceneLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\StringTools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\SystemInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\TetGenLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\Timing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\Version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\VolumeIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\PositionBasedDynamics\src\Ext_PBD\Utils\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{29CE6065-CC11-3727-A447-48264C9C5E7B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C5CDA735-412B-3259-BF07-ECF564CED04E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

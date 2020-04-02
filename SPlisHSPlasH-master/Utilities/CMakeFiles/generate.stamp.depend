@@ -1,0 +1,7 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindGit.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.17/Modules/FindPackageMessage.cmake
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMake/GetGitRevisionDescription.cmake
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Utilities/CMakeLists.txt
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Utilities/Version.h.in

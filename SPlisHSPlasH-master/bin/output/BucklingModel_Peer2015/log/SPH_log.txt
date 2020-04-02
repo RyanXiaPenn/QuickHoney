@@ -1,0 +1,60 @@
+[2020-03-30 09:17:38] Debug:   Git refspec: GITDIR-NOTFOUND
+[2020-03-30 09:17:38] Debug:   Git SHA1:    GITDIR-NOTFOUND
+[2020-03-30 09:17:38] Debug:   Git status:  HEAD-HASH-NOTFOUND
+[2020-03-30 09:17:38] Debug:   Host name:   DESKTOP-R6FKHN2
+[2020-03-30 09:17:38] Info:    Output directory: C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/bin/output/BucklingModel_Peer2015
+[2020-03-30 09:17:38] Info:    Load scene file: C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\data\Scenes\BucklingModel_Peer2015.json
+[2020-03-30 09:17:38] Info:    Initialize static boundary simulation
+[2020-03-30 09:17:38] Info:    Initialize fluid particles
+[2020-03-30 09:17:38] Info:    Number of fluid particles: 2618
+[2020-03-30 09:17:38] Info:    OpenGL version 4.6
+[2020-03-30 09:17:38] Info:    Using GLEW 1.12.0
+[2020-03-30 09:17:38] Info:    Vendor: NVIDIA Corporation
+[2020-03-30 09:17:38] Info:    Renderer: GeForce RTX 2080 SUPER/PCIe/SSE2
+[2020-03-30 09:17:38] Info:    Version: 4.6.0 NVIDIA 441.22
+[2020-03-30 09:17:38] Info:    ---------------------------------------------------------------------------
+
+[2020-03-30 09:17:38] Info:    ---------------------------------------------------------------------------
+
+[2020-03-30 09:17:38] Info:    Loading C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/data/models/UnitBox.obj
+[2020-03-30 09:17:38] Info:    Number of triangles: 12
+[2020-03-30 09:17:38] Info:    Number of vertices: 8
+[2020-03-30 09:17:38] Info:    Loaded cached volume map: C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/data/Scenes/Cache/UnitBox_sb_vm_0.025_s3_0.5_3_r20_20_20_i0_t0.cdm
+[2020-03-30 09:18:16] Info:    Sum of emitted particles: 0
+[2020-03-30 09:18:16] Info:    Sum of reused particles: 0
+[2020-03-30 09:18:16] Info:    Average time: animateParticles: 0.000523556 ms
+[2020-03-30 09:18:16] Info:    Average time: neighborhood_search: 0.364812 ms
+[2020-03-30 09:18:16] Info:    Average time: computeVolumeAndBoundaryX: 0.127476 ms
+[2020-03-30 09:18:16] Info:    Average time: computeDFSPHFactor: 0.0883522 ms
+[2020-03-30 09:18:16] Info:    Average time: divergenceSolve: 0.521591 ms
+[2020-03-30 09:18:16] Info:    Average time: CG solve: 7.78863 ms
+[2020-03-30 09:18:16] Info:    Average time: computeNonPressureForces: 9.6609 ms
+[2020-03-30 09:18:16] Info:    Average time: pressureSolve: 0.543191 ms
+[2020-03-30 09:18:16] Info:    Average time: emitParticles: 0.000414267 ms
+[2020-03-30 09:18:16] Info:    Average time: SimStep: 11.421 ms
+[2020-03-30 09:18:16] Info:    ---------------------------------------------------------------------------
+
+[2020-03-30 09:18:16] Info:    Time sum: animateParticles: 1.178 ms
+[2020-03-30 09:18:16] Info:    Time sum: neighborhood_search: 820.828 ms
+[2020-03-30 09:18:16] Info:    Time sum: computeVolumeAndBoundaryX: 286.822 ms
+[2020-03-30 09:18:16] Info:    Time sum: computeDFSPHFactor: 198.792 ms
+[2020-03-30 09:18:16] Info:    Time sum: divergenceSolve: 1173.58 ms
+[2020-03-30 09:18:16] Info:    Time sum: CG solve: 17524.4 ms
+[2020-03-30 09:18:16] Info:    Time sum: computeNonPressureForces: 21737 ms
+[2020-03-30 09:18:16] Info:    Time sum: pressureSolve: 1222.18 ms
+[2020-03-30 09:18:16] Info:    Time sum: emitParticles: 0.9321 ms
+[2020-03-30 09:18:16] Info:    Time sum: SimStep: 25697.2 ms
+[2020-03-30 09:18:16] Info:    ---------------------------------------------------------------------------
+
+[2020-03-30 09:18:16] Info:    Average number: DFSPH - iterationsV: 1
+[2020-03-30 09:18:16] Info:    Average number: DFSPH - iterations: 2
+[2020-03-30 09:18:16] Info:    Average number: Visco iterations: 26.8107
+[2020-03-30 09:18:16] Info:    Average number: Time step size: 0.00100001
+[2020-03-30 09:18:16] Info:    ---------------------------------------------------------------------------
+
+[2020-03-30 09:18:16] Info:    Total number: DFSPH - iterationsV: 2250
+[2020-03-30 09:18:16] Info:    Total number: DFSPH - iterations: 4500
+[2020-03-30 09:18:16] Info:    Total number: Visco iterations: 60324
+[2020-03-30 09:18:16] Info:    Total number: Time step size: 2.25002
+[2020-03-30 09:18:16] Info:    ---------------------------------------------------------------------------
+

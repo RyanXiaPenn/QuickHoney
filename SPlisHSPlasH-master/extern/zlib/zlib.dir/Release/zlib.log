@@ -1,0 +1,15 @@
+﻿  Building Custom Rule C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/zlib/CMakeLists.txt
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzio.c
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  trees.c
+  uncompr.c
+  zutil.c
+  正在生成代码...
+  zlib.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\lib\Release\zlib.lib

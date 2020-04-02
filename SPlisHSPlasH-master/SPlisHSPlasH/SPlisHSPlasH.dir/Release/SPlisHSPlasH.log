@@ -1,0 +1,75 @@
+﻿  Building Custom Rule C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/SPlisHSPlasH/CMakeLists.txt
+  AnimationField.cpp
+  AnimationFieldSystem.cpp
+  BoundaryModel.cpp
+  BoundaryModel_Akinci2012.cpp
+  BoundaryModel_Bender2019.cpp
+  BoundaryModel_Koschier2017.cpp
+  Emitter.cpp
+  EmitterSystem.cpp
+  FluidModel.cpp
+  SPHKernels.cpp
+  Simulation.cpp
+  TimeManager.cpp
+  TimeStep.cpp
+  TriangleMesh.cpp
+  NonPressureForceBase.cpp
+  SimulationDataWCSPH.cpp
+  TimeStepWCSPH.cpp
+  SimulationDataPCISPH.cpp
+  TimeStepPCISPH.cpp
+  SimulationDataPBF.cpp
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Emitter.cpp(249): warning C4244: “参数”: 从“unsigned int”转换到“const Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Emitter.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\FluidModel.cpp(375): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\FluidModel.cpp)
+  TimeStepPBF.cpp
+  TimeIntegration.cpp
+  SimulationDataIISPH.cpp
+  TimeStepIISPH.cpp
+  SimulationDataDFSPH.cpp
+  TimeStepDFSPH.cpp
+  SimulationDataPF.cpp
+  TimeStepPF.cpp
+  ViscosityBase.cpp
+  Viscosity_XSPH.cpp
+  Viscosity_Standard.cpp
+  Viscosity_Bender2017.cpp
+  Viscosity_Peer2015.cpp
+  Viscosity_Peer2016.cpp
+  Viscosity_Takahashi2015.cpp
+  Viscosity_Weiler2018.cpp
+  SurfaceTensionBase.cpp
+  SurfaceTension_Becker2007.cpp
+  SurfaceTension_Akinci2013.cpp
+  SurfaceTension_He2014.cpp
+  VorticityBase.cpp
+  MicropolarModel_Bender2017.cpp
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Viscosity\Viscosity_Weiler2018.cpp(147): warning C4244: “初始化”: 从“double”转换到“Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Viscosity\Viscosity_Weiler2018.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Viscosity\Viscosity_Weiler2018.cpp(147): warning C4244: “初始化”: 从“double”转换到“const Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Viscosity\Viscosity_Weiler2018.cpp)
+  VorticityConfinement.cpp
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Viscosity\Viscosity_Weiler2018.cpp(203): warning C4244: “初始化”: 从“double”转换到“Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Viscosity\Viscosity_Weiler2018.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Viscosity\Viscosity_Weiler2018.cpp(203): warning C4244: “初始化”: 从“double”转换到“const Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Viscosity\Viscosity_Weiler2018.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Viscosity\Viscosity_Weiler2018.cpp(529): warning C4244: “初始化”: 从“double”转换到“Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Viscosity\Viscosity_Weiler2018.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Viscosity\Viscosity_Weiler2018.cpp(529): warning C4244: “初始化”: 从“double”转换到“const Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Viscosity\Viscosity_Weiler2018.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Viscosity\Viscosity_Weiler2018.cpp(570): warning C4244: “初始化”: 从“double”转换到“Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Viscosity\Viscosity_Weiler2018.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Viscosity\Viscosity_Weiler2018.cpp(570): warning C4244: “初始化”: 从“double”转换到“const Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Viscosity\Viscosity_Weiler2018.cpp)
+  DragBase.cpp
+  DragForce_Gissler2017.cpp
+  DragForce_Macklin2014.cpp
+  ElasticityBase.cpp
+  Elasticity_Becker2009.cpp
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Elasticity\Elasticity_Becker2009.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Elasticity\Elasticity_Becker2009.cpp)
+  Elasticity_Peer2018.cpp
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Elasticity\Elasticity_Peer2018.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Elasticity\Elasticity_Peer2018.cpp)
+  MathFunctions.cpp
+  GaussQuadrature.cpp
+  PoissonDiskSampling.cpp
+  RegularTriangleSampling.cpp
+  RegularSampling2D.cpp
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Utilities\PoissonDiskSampling.cpp(72): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Utilities\PoissonDiskSampling.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Utilities\PoissonDiskSampling.cpp(233): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\Utilities\PoissonDiskSampling.cpp)
+  SceneLoader.cpp
+  VolumeSampling.cpp
+  SDFFunctions.cpp
+  SimpleQuadrature.cpp
+  WindingNumbers.cpp
+  SPlisHSPlasH.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\lib\Release\SPlisHSPlasH.lib

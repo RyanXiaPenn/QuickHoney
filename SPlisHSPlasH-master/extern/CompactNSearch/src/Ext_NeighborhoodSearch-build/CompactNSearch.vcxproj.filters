@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\CompactNSearch\src\Ext_NeighborhoodSearch\src\CompactNSearch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\CompactNSearch\src\Ext_NeighborhoodSearch\include\Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\CompactNSearch\src\Ext_NeighborhoodSearch\include\CompactNSearch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\CompactNSearch\src\Ext_NeighborhoodSearch\include\PointSet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\CompactNSearch\src\Ext_NeighborhoodSearch\include\DataStructures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\CompactNSearch\src\Ext_NeighborhoodSearch\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4172AFF3-AABF-3FE7-AB45-3F19E456268B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EECF875C-13EA-3F20-8658-8156007FA772}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

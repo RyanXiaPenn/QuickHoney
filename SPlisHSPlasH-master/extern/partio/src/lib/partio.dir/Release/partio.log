@@ -1,0 +1,157 @@
+﻿  Building Custom Rule C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/partio/src/lib/CMakeLists.txt
+  BGEO.cpp
+  BIN.cpp
+  GEO.cpp
+  MC.cpp
+  PDA.cpp
+  PDB.cpp
+  PDC.cpp
+  PRT.cpp
+  PTC.cpp
+  PTS.cpp
+  ParticleIO.cpp
+  RIB.cpp
+  ZIP.cpp
+  Particle.cpp
+  ParticleCaching.cpp
+  ParticleHeaders.cpp
+  ParticleSimple.cpp
+  ParticleSimpleInterleave.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\utility(240): warning C4244: “初始化”: 从“_Ty”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty2=float
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\Particle.cpp)
+  C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\Particle.cpp(366): note: 参见对正在编译的函数 模板 实例化“std::pair<Partio::ParticleIndex,float>::pair<unsigned __int64,int,0>(std::pair<unsigned __int64,int> &&) noexcept”的引用 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\Particle.cpp)
+  C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\Particle.cpp(366): note: 参见对正在编译的函数 模板 实例化“std::pair<Partio::ParticleIndex,float>::pair<unsigned __int64,int,0>(std::pair<unsigned __int64,int> &&) noexcept”的引用 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\Particle.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\utility(240): warning C4244: “初始化”: 从“_Ty”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=float
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\Particle.cpp)
+  C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\Particle.cpp(394): note: 参见对正在编译的函数 模板 实例化“std::pair<Partio::ParticleIndex,float>::pair<unsigned __int64,double,0>(std::pair<unsigned __int64,double> &&) noexcept”的引用 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\Particle.cpp)
+  C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\Particle.cpp(394): note: 参见对正在编译的函数 模板 实例化“std::pair<Partio::ParticleIndex,float>::pair<unsigned __int64,double,0>(std::pair<unsigned __int64,double> &&) noexcept”的引用 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\Particle.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3906): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Partio::ParticleIndex
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(4450): note: 参见对正在编译的函数 模板 实例化“std::pair<_Ty *,_Ty *> std::_Partition_by_median_guess_unchecked<_Ty*,_Fn>(_RanIt,_RanIt,_Pr)”的引用
+          with
+          [
+              _Ty=Partio::ParticleIndex,
+              _Fn=Partio::KdTree<3>::ComparePointsById,
+              _RanIt=Partio::ParticleIndex *,
+              _Pr=Partio::KdTree<3>::ComparePointsById
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+  c:\users\weixi\onedrive\桌面\splishsplash-master\extern\partio\src\lib\core\KdTree.h(329): note: 参见对正在编译的函数 模板 实例化“void std::nth_element<_Ty*,Partio::KdTree<3>::ComparePointsById>(_RanIt,_RanIt,_RanIt,_Pr)”的引用
+          with
+          [
+              _Ty=Partio::ParticleIndex,
+              _RanIt=Partio::ParticleIndex *,
+              _Pr=Partio::KdTree<3>::ComparePointsById
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+  c:\users\weixi\onedrive\桌面\splishsplash-master\extern\partio\src\lib\core\KdTree.h(323): note: 编译 类 模板 成员函数 "void Partio::KdTree<3>::sortSubtree(int,int,int)" 时 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+  c:\users\weixi\onedrive\桌面\splishsplash-master\extern\partio\src\lib\core\KdTree.h(312): note: 参见对正在编译的函数 模板 实例化“void Partio::KdTree<3>::sortSubtree(int,int,int)”的引用 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+  c:\users\weixi\onedrive\桌面\splishsplash-master\extern\partio\src\lib\core\KdTree.h(269): note: 编译 类 模板 成员函数 "Partio::KdTree<3>::KdTree(void)" 时 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+  C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp(143): note: 参见对正在编译的函数 模板 实例化“Partio::KdTree<3>::KdTree(void)”的引用 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+  C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp(63): note: 参见对正在编译的 类 模板 实例化 "Partio::KdTree<3>" 的引用 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3907): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Partio::ParticleIndex
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3913): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Partio::ParticleIndex
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3914): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Partio::ParticleIndex
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3926): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Partio::ParticleIndex
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3929): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Partio::ParticleIndex
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3946): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Partio::ParticleIndex
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3949): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Partio::ParticleIndex
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3832): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Partio::ParticleIndex
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(4466): note: 参见对正在编译的函数 模板 实例化“_BidIt std::_Insertion_sort_unchecked<_Ty*,_Fn>(_BidIt,const _BidIt,_Pr)”的引用
+          with
+          [
+              _BidIt=Partio::ParticleIndex *,
+              _Ty=Partio::ParticleIndex,
+              _Fn=Partio::KdTree<3>::ComparePointsById,
+              _Pr=Partio::KdTree<3>::ComparePointsById
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3832): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3840): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Partio::ParticleIndex
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3840): warning C4244: “参数”: 从“unsigned __int64”转换到“int”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3858): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Partio::ParticleIndex
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3884): note: 参见对正在编译的函数 模板 实例化“void std::_Med3_unchecked<_RanIt,_Pr>(_RanIt,_RanIt,_RanIt,_Pr)”的引用
+          with
+          [
+              _RanIt=Partio::ParticleIndex *,
+              _Pr=Partio::KdTree<3>::ComparePointsById
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3901): note: 参见对正在编译的函数 模板 实例化“void std::_Guess_median_unchecked<_RanIt,_Pr>(_RanIt,_RanIt,_RanIt,_Pr)”的引用
+          with
+          [
+              _RanIt=Partio::ParticleIndex *,
+              _Pr=Partio::KdTree<3>::ComparePointsById
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+  C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(4450): note: 参见对正在编译的函数 模板 实例化“std::pair<_Ty *,_Ty *> std::_Partition_by_median_guess_unchecked<_Ty*,_Fn>(_RanIt,_RanIt,_Pr)”的引用
+          with
+          [
+              _Ty=Partio::ParticleIndex,
+              _Fn=Partio::KdTree<3>::ComparePointsById,
+              _RanIt=Partio::ParticleIndex *,
+              _Pr=Partio::KdTree<3>::ComparePointsById
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3863): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Partio::ParticleIndex
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.16.27023\include\algorithm(3867): warning C4244: “参数”: 从“_Ty”转换到“int”，可能丢失数据
+          with
+          [
+              _Ty=Partio::ParticleIndex
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\core\ParticleSimple.cpp)
+  partio.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\lib\Release\partio.lib

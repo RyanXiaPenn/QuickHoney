@@ -1,0 +1,6 @@
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/install/NeighborhoodSearch/include/CompactNSearch
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/install/NeighborhoodSearch/include/Config.h
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/install/NeighborhoodSearch/include/CompactNSearch.h
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/install/NeighborhoodSearch/include/PointSet.h
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/install/NeighborhoodSearch/include/DataStructures.h
+C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/install/NeighborhoodSearch/lib/CompactNSearch.lib

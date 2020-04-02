@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{E0CB0E20-E3E3-3D0D-8098-DABD4337E0C8}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>SPHSimulator</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\bin\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">SPHSimulator.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">SPHSimulator_d</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\bin\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">SPHSimulator.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">SPHSimulator</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\bin\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">SPHSimulator.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">SPHSimulator_ms</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\bin\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">SPHSimulator.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">SPHSimulator_rd</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">true</GenerateManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\freeglut\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\eigen;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\zlib\src;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\glew\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\NeighborhoodSearch\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\GenericParameters\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\Discregrid\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\PositionBasedDynamics\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <EnableEnhancedInstructionSet>AdvancedVectorExtensions</EnableEnhancedInstructionSet>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <OpenMPSupport>true</OpenMPSupport>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;USE_AVX;_CRT_SECURE_NO_DEPRECATE;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;USE_AVX;_CRT_SECURE_NO_DEPRECATE;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\freeglut\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\eigen;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\zlib\src;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\glew\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\NeighborhoodSearch\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\GenericParameters\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\Discregrid\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\PositionBasedDynamics\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\freeglut\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\eigen;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\zlib\src;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\glew\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\NeighborhoodSearch\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\GenericParameters\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\Discregrid\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\PositionBasedDynamics\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>..\lib\Debug\SimulatorBase_d.lib;..\lib\Debug\freeglut_d.lib;glu32.lib;..\lib\Debug\AntTweakBar_d.lib;..\lib\Debug\glew_d.lib;opengl32.lib;..\lib\Debug\SPlisHSPlasH_d.lib;..\lib\Debug\Utilities_d.lib;..\lib\Debug\partio_d.lib;..\lib\Debug\zlib_d.lib;..\lib\Debug\MD5_d.lib;..\lib\Debug\tinyexpr_d.lib;..\extern\install\NeighborhoodSearch\lib\CompactNSearch_d.lib;..\extern\install\Discregrid\lib\Discregrid_d.lib;..\extern\install\PositionBasedDynamics\lib\Simulation_d.lib;..\extern\install\PositionBasedDynamics\lib\PositionBasedDynamics_d.lib;..\extern\install\PositionBasedDynamics\lib\Utils_d.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Simulator/Debug/SPHSimulator_d.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/bin/SPHSimulator_d.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\freeglut\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\eigen;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\zlib\src;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\glew\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\NeighborhoodSearch\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\GenericParameters\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\Discregrid\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\PositionBasedDynamics\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <EnableEnhancedInstructionSet>AdvancedVectorExtensions</EnableEnhancedInstructionSet>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <OpenMPSupport>true</OpenMPSupport>
+      <Optimization>Full</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;USE_AVX;_CRT_SECURE_NO_DEPRECATE;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;USE_AVX;_CRT_SECURE_NO_DEPRECATE;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\freeglut\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\eigen;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\zlib\src;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\glew\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\NeighborhoodSearch\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\GenericParameters\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\Discregrid\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\PositionBasedDynamics\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\freeglut\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\eigen;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\zlib\src;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\glew\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\NeighborhoodSearch\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\GenericParameters\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\Discregrid\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\PositionBasedDynamics\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>..\lib\Release\SimulatorBase.lib;..\lib\Release\freeglut.lib;glu32.lib;..\lib\Release\AntTweakBar.lib;..\lib\Release\glew.lib;opengl32.lib;..\lib\Release\SPlisHSPlasH.lib;..\lib\Release\Utilities.lib;..\lib\Release\partio.lib;..\lib\Release\zlib.lib;..\lib\Release\MD5.lib;..\lib\Release\tinyexpr.lib;..\extern\install\NeighborhoodSearch\lib\CompactNSearch.lib;..\extern\install\Discregrid\lib\Discregrid.lib;..\extern\install\PositionBasedDynamics\lib\Simulation.lib;..\extern\install\PositionBasedDynamics\lib\PositionBasedDynamics.lib;..\extern\install\PositionBasedDynamics\lib\Utils.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Simulator/Release/SPHSimulator.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/bin/SPHSimulator.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\freeglut\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\eigen;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\zlib\src;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\glew\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\NeighborhoodSearch\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\GenericParameters\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\Discregrid\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\PositionBasedDynamics\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <EnableEnhancedInstructionSet>AdvancedVectorExtensions</EnableEnhancedInstructionSet>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <OpenMPSupport>true</OpenMPSupport>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;USE_AVX;_CRT_SECURE_NO_DEPRECATE;CMAKE_INTDIR="MinSizeRel";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;USE_AVX;_CRT_SECURE_NO_DEPRECATE;CMAKE_INTDIR=\"MinSizeRel\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\freeglut\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\eigen;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\zlib\src;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\glew\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\NeighborhoodSearch\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\GenericParameters\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\Discregrid\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\PositionBasedDynamics\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\freeglut\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\eigen;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\zlib\src;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\glew\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\NeighborhoodSearch\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\GenericParameters\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\Discregrid\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\PositionBasedDynamics\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>..\lib\MinSizeRel\SimulatorBase_ms.lib;..\lib\MinSizeRel\freeglut_ms.lib;glu32.lib;..\lib\MinSizeRel\AntTweakBar_ms.lib;..\lib\MinSizeRel\glew_ms.lib;opengl32.lib;..\lib\MinSizeRel\SPlisHSPlasH_ms.lib;..\lib\MinSizeRel\Utilities_ms.lib;..\lib\MinSizeRel\partio_ms.lib;..\lib\MinSizeRel\zlib_ms.lib;..\lib\MinSizeRel\MD5_ms.lib;..\lib\MinSizeRel\tinyexpr_ms.lib;..\extern\install\NeighborhoodSearch\lib\CompactNSearch.lib;..\extern\install\Discregrid\lib\Discregrid.lib;..\extern\install\PositionBasedDynamics\lib\Simulation.lib;..\extern\install\PositionBasedDynamics\lib\PositionBasedDynamics.lib;..\extern\install\PositionBasedDynamics\lib\Utils.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Simulator/MinSizeRel/SPHSimulator_ms.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/bin/SPHSimulator_ms.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\freeglut\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\eigen;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\zlib\src;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\glew\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\NeighborhoodSearch\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\GenericParameters\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\Discregrid\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\PositionBasedDynamics\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <EnableEnhancedInstructionSet>AdvancedVectorExtensions</EnableEnhancedInstructionSet>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <OpenMPSupport>true</OpenMPSupport>
+      <Optimization>Full</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;USE_AVX;_CRT_SECURE_NO_DEPRECATE;CMAKE_INTDIR="RelWithDebInfo";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;USE_AVX;_CRT_SECURE_NO_DEPRECATE;CMAKE_INTDIR=\"RelWithDebInfo\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\freeglut\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\eigen;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\zlib\src;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\glew\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\NeighborhoodSearch\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\GenericParameters\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\Discregrid\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\PositionBasedDynamics\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\freeglut\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\eigen;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\zlib\src;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\glew\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\NeighborhoodSearch\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\GenericParameters\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\Discregrid\include;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\install\PositionBasedDynamics\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>..\lib\RelWithDebInfo\SimulatorBase_rd.lib;..\lib\RelWithDebInfo\freeglut_rd.lib;glu32.lib;..\lib\RelWithDebInfo\AntTweakBar_rd.lib;..\lib\RelWithDebInfo\glew_rd.lib;opengl32.lib;..\lib\RelWithDebInfo\SPlisHSPlasH_rd.lib;..\lib\RelWithDebInfo\Utilities_rd.lib;..\lib\RelWithDebInfo\partio_rd.lib;..\lib\RelWithDebInfo\zlib_rd.lib;..\lib\RelWithDebInfo\MD5_rd.lib;..\lib\RelWithDebInfo\tinyexpr_rd.lib;..\extern\install\NeighborhoodSearch\lib\CompactNSearch.lib;..\extern\install\Discregrid\lib\Discregrid.lib;..\extern\install\PositionBasedDynamics\lib\Simulation.lib;..\extern\install\PositionBasedDynamics\lib\PositionBasedDynamics.lib;..\extern\install\PositionBasedDynamics\lib\Utils.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:X86</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Simulator/RelWithDebInfo/SPHSimulator_rd.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/bin/SPHSimulator_rd.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Simulator/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master -BC:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master --check-stamp-file C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Simulator/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\CMakeLists.txt;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\TweakBar\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Simulator/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master -BC:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master --check-stamp-file C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Simulator/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\CMakeLists.txt;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\TweakBar\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Simulator/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master -BC:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master --check-stamp-file C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Simulator/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\CMakeLists.txt;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\TweakBar\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Simulator/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master -BC:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master --check-stamp-file C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Simulator/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\CMakeLists.txt;C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\TweakBar\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\ZERO_CHECK.vcxproj">
+      <Project>{D148C367-7DC2-3A5C-A277-89C4AC9E3CE9}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\AntTweakBar\AntTweakBar.vcxproj">
+      <Project>{A3CB353E-78EC-3CF2-9127-6F4F2DA70129}</Project>
+      <Name>AntTweakBar</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Ext_PBD.vcxproj">
+      <Project>{9CB1F386-3D28-3A6E-8813-CC9A20EE1FEC}</Project>
+      <Name>Ext_PBD</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\md5\MD5.vcxproj">
+      <Project>{1C3B4EC5-BA5B-345E-8FAB-3C76A006AC2C}</Project>
+      <Name>MD5</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\SPlisHSPlasH\SPlisHSPlasH.vcxproj">
+      <Project>{7CAB3262-57F9-39D8-B38F-EE08C2AFB497}</Project>
+      <Name>SPlisHSPlasH</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.vcxproj">
+      <Project>{7BA3FCDE-9D85-377F-B15E-00D227866698}</Project>
+      <Name>SimulatorBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Utilities\Utilities.vcxproj">
+      <Project>{82B08CB2-184A-3E2D-AD18-5E175ABF1B59}</Project>
+      <Name>Utilities</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\freeglut\src\freeglut.vcxproj">
+      <Project>{265C37AA-ECC4-36B5-A13C-2E88CB7332A3}</Project>
+      <Name>freeglut</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\glew\glew.vcxproj">
+      <Project>{7D6A19A0-9111-3CAF-A43A-BFF61381E14F}</Project>
+      <Name>glew</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\partio\src\lib\partio.vcxproj">
+      <Project>{CDD3B8DF-4CCA-3BCC-8E68-137B82AE56F1}</Project>
+      <Name>partio</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\tinyexpr\tinyexpr.vcxproj">
+      <Project>{F03758BA-8090-31AC-818F-83D3B8DC0EE2}</Project>
+      <Name>tinyexpr</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\zlib\zlib.vcxproj">
+      <Project>{B3843192-7FBF-3235-9232-CA41F80B21FF}</Project>
+      <Name>zlib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

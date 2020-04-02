@@ -1,0 +1,46 @@
+﻿  Creating directories for 'Ext_Discregrid'
+  Building Custom Rule C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeLists.txt
+  Performing download step (git clone) for 'Ext_Discregrid'
+  -- Avoiding repeated git clone, stamp file is up to date: 'C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/Discregrid/src/Ext_Discregrid-stamp/Ext_Discregrid-gitclone-lastrun.txt'
+  Performing update step for 'Ext_Discregrid'
+  No patch step for 'Ext_Discregrid'
+  Performing configure step for 'Ext_Discregrid'
+  -- Found OpenMP_C: -openmp  
+  -- Found OpenMP_CXX: -openmp  
+  -- Found OpenMP: TRUE   
+  -- Configuring done
+  -- Generating done
+  -- Build files have been written to: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/Discregrid/src/Ext_Discregrid-build
+  Performing build step for 'Ext_Discregrid'
+  用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+    Discregrid.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\Discregrid\src\Ext_Discregrid-build\bin\Release\Discregrid.lib
+  Performing install step for 'Ext_Discregrid'
+  用于 .NET Framework 的 Microsoft (R) 生成引擎版本 15.9.21+g9802d43bc3
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+    Discregrid.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern\Discregrid\src\Ext_Discregrid-build\bin\Release\Discregrid.lib
+    -- Install configuration: "Release"
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/lib/Discregrid.lib
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/acceleration
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/acceleration/bounding_sphere.hpp
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/acceleration/bounding_sphere_hierarchy.hpp
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/acceleration/kd_tree.hpp
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/acceleration/kd_tree.inl
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/All
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/cubic_lagrange_discrete_grid.hpp
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/discrete_grid.hpp
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/geometry
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/geometry/mesh_distance.hpp
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/mesh
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/mesh/entity_containers.hpp
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/mesh/entity_iterators.hpp
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/mesh/halfedge.hpp
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/mesh/triangle_mesh.hpp
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/utility
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/utility/lru_cache.hpp
+    -- Up-to-date: C:/Users/WeiXi/OneDrive/妗岄潰/SPlisHSPlasH-master/extern/install/Discregrid/./include/Discregrid/utility/serialize.hpp
+  Completed 'Ext_Discregrid'

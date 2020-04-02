@@ -1,0 +1,26 @@
+[2020-03-30 10:12:02] Debug:   Git refspec: GITDIR-NOTFOUND
+[2020-03-30 10:12:02] Debug:   Git SHA1:    GITDIR-NOTFOUND
+[2020-03-30 10:12:02] Debug:   Git status:  HEAD-HASH-NOTFOUND
+[2020-03-30 10:12:02] Debug:   Host name:   DESKTOP-R6FKHN2
+[2020-03-30 10:12:02] Info:    Output directory: C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/bin/output/QuickHoney
+[2020-03-30 10:12:02] Info:    Load scene file: C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\data\Scenes\QuickHoney.json
+[2020-03-30 10:12:02] Info:    Initialize static boundary simulation
+[2020-03-30 10:12:02] Info:    Initialize fluid particles
+[2020-03-30 10:12:02] Info:    Number of fluid particles: 3509
+[2020-03-30 10:12:02] Info:    OpenGL version 4.6
+[2020-03-30 10:12:02] Info:    Using GLEW 1.12.0
+[2020-03-30 10:12:02] Info:    Vendor: NVIDIA Corporation
+[2020-03-30 10:12:02] Info:    Renderer: GeForce RTX 2080 SUPER/PCIe/SSE2
+[2020-03-30 10:12:02] Info:    Version: 4.6.0 NVIDIA 441.22
+[2020-03-30 10:12:02] Info:    ---------------------------------------------------------------------------
+
+[2020-03-30 10:12:02] Info:    ---------------------------------------------------------------------------
+
+[2020-03-30 10:12:02] Info:    Loading C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/data/models/sphere.obj
+[2020-03-30 10:12:02] Info:    Number of triangles: 2280
+[2020-03-30 10:12:02] Info:    Number of vertices: 1146
+[2020-03-30 10:12:02] Info:    Loaded cached volume map: C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/data/Scenes/Cache/sphere_sb_vm_0.025_s1_1_1_r20_20_20_i0_t0.cdm
+[2020-03-30 10:12:09] Info:    ---------------------------------------------------------------------------
+
+[2020-03-30 10:12:09] Info:    ---------------------------------------------------------------------------
+

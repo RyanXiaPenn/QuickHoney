@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/Ext_Discregrid"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/96d3bb827ff08d71b1c06946fd27c747/Ext_Discregrid.rule"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/48ccbb2b3bf28ff07e6b4f170dd52c99/Ext_Discregrid-complete.rule"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/5252214caa59bc99a4de40ead9d6f530/Ext_Discregrid-install.rule"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/5252214caa59bc99a4de40ead9d6f530/Ext_Discregrid-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/5252214caa59bc99a4de40ead9d6f530/Ext_Discregrid-download.rule"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/5252214caa59bc99a4de40ead9d6f530/Ext_Discregrid-update.rule"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/5252214caa59bc99a4de40ead9d6f530/Ext_Discregrid-patch.rule"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/5252214caa59bc99a4de40ead9d6f530/Ext_Discregrid-configure.rule"
+		},
+		{
+			"file" : "C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/CMakeFiles/5252214caa59bc99a4de40ead9d6f530/Ext_Discregrid-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"Ext_Discregrid"
+		],
+		"name" : "Ext_Discregrid"
+	}
+}

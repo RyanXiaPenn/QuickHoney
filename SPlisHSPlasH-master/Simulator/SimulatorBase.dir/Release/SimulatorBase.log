@@ -1,0 +1,60 @@
+﻿  Building Custom Rule C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/Simulator/CMakeLists.txt
+  SimulatorBase.cpp
+  BoundarySimulator.cpp
+  StaticBoundarySimulator.cpp
+  Simulator_OpenGL.cpp
+  Simulator_GUI_TweakBar.cpp
+  PBD_Simulator_GUI_TweakBar.cpp
+  MiniGL.cpp
+  Shader.cpp
+  TweakBarParameters.cpp
+  PBDWrapper.cpp
+  PBDBoundarySimulator.cpp
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\MiniGL.cpp(678): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\MiniGL.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\MiniGL.cpp(715): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\MiniGL.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\MiniGL.cpp(746): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\MiniGL.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\MiniGL.cpp(758): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\MiniGL.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\MiniGL.cpp(874): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\MiniGL.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\MiniGL.cpp(913): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\MiniGL.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\MiniGL.cpp(928): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\MiniGL.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(51): warning C4244: “=”: 从“double”转换到“Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDBoundarySimulator.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(72): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDBoundarySimulator.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(73): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDBoundarySimulator.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(100): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDBoundarySimulator.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(101): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDBoundarySimulator.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(102): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDBoundarySimulator.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(192): warning C4244: “=”: 从“double”转换到“Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDBoundarySimulator.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(51): warning C4244: “=”: 从“double”转换到“Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDWrapper.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(72): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDWrapper.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(73): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDWrapper.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(100): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDWrapper.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(101): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDWrapper.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(102): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDWrapper.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(192): warning C4244: “=”: 从“double”转换到“Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDWrapper.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(51): warning C4244: “=”: 从“double”转换到“Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBD_Simulator_GUI_TweakBar.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(72): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBD_Simulator_GUI_TweakBar.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(73): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBD_Simulator_GUI_TweakBar.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(100): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBD_Simulator_GUI_TweakBar.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(101): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBD_Simulator_GUI_TweakBar.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(102): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBD_Simulator_GUI_TweakBar.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(192): warning C4244: “=”: 从“double”转换到“Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBD_Simulator_GUI_TweakBar.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\extern/cxxopts/cxxopts.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\GUI\TweakBar\Simulator_GUI_TweakBar.cpp(410): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\GUI\TweakBar\Simulator_GUI_TweakBar.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDWrapper.cpp(205): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDWrapper.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(51): warning C4244: “=”: 从“double”转换到“Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(72): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(73): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(100): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(101): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(102): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.cpp)
+c:\users\weixi\onedrive\桌面\splishsplash-master\extern\install\positionbaseddynamics\include\simulation\BoundingSphere.h(192): warning C4244: “=”: 从“double”转换到“Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDBoundarySimulator.cpp(63): warning C4018: “<”: 有符号/无符号不匹配 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDBoundarySimulator.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDBoundarySimulator.cpp(69): warning C4244: “参数”: 从“unsigned int”转换到“const Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDBoundarySimulator.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.cpp(880): warning C4244: “参数”: 从“_Ty”转换到“const Real”，可能丢失数据
+          with
+          [
+              _Ty=unsigned int
+          ] (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.cpp(2445): warning C4244: “参数”: 从“unsigned int”转换到“const Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.cpp)
+C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.cpp(2634): warning C4244: “参数”: 从“unsigned int”转换到“const Real”，可能丢失数据 (编译源文件 C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.cpp)
+  SimulatorBase.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\lib\Release\SimulatorBase.lib

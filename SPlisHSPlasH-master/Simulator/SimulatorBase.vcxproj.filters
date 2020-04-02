@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\BoundarySimulator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\StaticBoundarySimulator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\GUI\OpenGL\Simulator_OpenGL.cpp">
+      <Filter>Source Files\GUI\OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\GUI\TweakBar\Simulator_GUI_TweakBar.cpp">
+      <Filter>Source Files\GUI\TweakBar</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBD_Simulator_GUI_TweakBar.cpp">
+      <Filter>Source Files\GUI\TweakBar</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\MiniGL.cpp">
+      <Filter>Source Files\GUI\OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\Shader.cpp">
+      <Filter>Source Files\GUI\OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\TweakBar\TweakBarParameters.cpp">
+      <Filter>Source Files\GUI\TweakBar</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDWrapper.cpp">
+      <Filter>Source Files\PBD</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDBoundarySimulator.cpp">
+      <Filter>Source Files\PBD</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\SimulatorBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\BoundarySimulator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\StaticBoundarySimulator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\GUI\OpenGL\Simulator_OpenGL.h">
+      <Filter>Header Files\GUI\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\GUI\Simulator_GUI_Base.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\GUI\TweakBar\Simulator_GUI_TweakBar.h">
+      <Filter>Header Files\GUI\TweakBar</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBD_Simulator_GUI_TweakBar.h">
+      <Filter>Header Files\GUI\TweakBar</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\MiniGL.h">
+      <Filter>Header Files\GUI\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\Selection.h">
+      <Filter>Header Files\GUI\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\Shader.h">
+      <Filter>Header Files\GUI\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\colormaps\colormap_jet.h">
+      <Filter>Header Files\GUI\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\OpenGL\colormaps\colormap_plasma.h">
+      <Filter>Header Files\GUI\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\GUI\TweakBar\TweakBarParameters.h">
+      <Filter>Header Files\GUI\TweakBar</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDWrapper.h">
+      <Filter>Header Files\PBD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDRigidBody.h">
+      <Filter>Header Files\PBD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\PositionBasedDynamicsWrapper\PBDBoundarySimulator.h">
+      <Filter>Header Files\PBD</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\Simulator\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E2156395-4FD6-3E05-88FC-6CF33DF4A9B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GUI">
+      <UniqueIdentifier>{29D59C91-35F4-3639-96FA-C0434195086A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GUI\OpenGL">
+      <UniqueIdentifier>{E9D67036-F53C-3051-94D5-3692FD1C65D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GUI\TweakBar">
+      <UniqueIdentifier>{768C4C48-C8D9-3AB7-BCC8-5B7B9AF1B856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\PBD">
+      <UniqueIdentifier>{2488BD56-2862-352C-BC69-DF95B6A6EEA6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{722D04A6-F3F5-3E43-A64B-FD3A8B23A2C9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUI">
+      <UniqueIdentifier>{AFC5CE63-8FD5-3178-A0A9-19AB9C7E8E87}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUI\OpenGL">
+      <UniqueIdentifier>{D9773AC1-B7BD-3900-B672-114857534D53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUI\TweakBar">
+      <UniqueIdentifier>{AD9B572D-D477-31F1-B408-6483FADCBD97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\PBD">
+      <UniqueIdentifier>{E9E612F2-1223-3F1C-B510-53BEE1813A95}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

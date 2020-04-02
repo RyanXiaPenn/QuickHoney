@@ -1,0 +1,18 @@
+﻿  Building Custom Rule C:/Users/WeiXi/OneDrive/桌面/SPlisHSPlasH-master/extern/AntTweakBar/CMakeLists.txt
+  LoadOGL.cpp
+  LoadOGLCore.cpp
+  TwBar.cpp
+  TwColors.cpp
+  TwEventSFML.cpp
+  TwFonts.cpp
+  TwMgr.cpp
+  TwOpenGL.cpp
+  TwOpenGLCore.cpp
+  TwPrecomp.cpp
+  TwEventGLFW.c
+  TwEventGLUT.c
+  TwEventSDL.c
+  TwEventSDL12.c
+  TwEventSDL13.c
+  TwEventWin.c
+  AntTweakBar.vcxproj -> C:\Users\WeiXi\OneDrive\桌面\SPlisHSPlasH-master\lib\Release\AntTweakBar.lib
